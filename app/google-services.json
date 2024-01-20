@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "728957541793",
+    "firebase_url": "https://swr-joeff1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "swr-joeff1",
+    "storage_bucket": "swr-joeff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728957541793:android:2baeca73d621961c783fe0",
+        "android_client_info": {
+          "package_name": "com.github.muneebwanee.dash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTUM8RLbu6dTiNQkmdk_GffhRxmZmg5EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
